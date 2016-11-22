@@ -10,6 +10,9 @@
 */
 
 /* Basic */
+	.site-title {
+		font-family: "Bungee Inline", cursive;
+	}
 
 	body {
 		background: #fff;
